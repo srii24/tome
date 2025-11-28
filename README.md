@@ -6,3 +6,6 @@ https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/plai
 wget https://deb.debian.org/debian/pool/main/l/linux/linux-image-5.15.0-9-amd64_5.15.74-1_amd64.deb
 wget https://deb.debian.org/debian/pool/main/l/linux/linux-headers-5.15.0-9-amd64_5.15.74-1_amd64.deb
 wget https://deb.debian.org/debian/pool/main/l/linux/linux-headers-5.15.0-9-common_5.15.74-1_all.deb
+wget https://snapshot.debian.org/archive/debian/20221009T152114Z/pool/main/l/linux/linux-image-5.15.0-2-amd64_5.15.11-1_amd64.deb
+wget https://snapshot.debian.org/archive/debian/20221009T152114Z/pool/main/l/linux/linux-headers-5.15.0-2-amd64_5.15.11-1_amd64.deb
+wget https://snapshot.debian.org/archive/debian/20221009T152114Z/pool/main/l/linux/linux-headers-5.15.0-2-common_5.15.11-1_all.deb
