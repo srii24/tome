@@ -10,3 +10,4 @@ wget https://snapshot.debian.org/archive/debian/20221009T152114Z/pool/main/l/lin
 wget https://snapshot.debian.org/archive/debian/20221009T152114Z/pool/main/l/linux/linux-headers-5.15.0-2-amd64_5.15.11-1_amd64.deb
 wget https://snapshot.debian.org/archive/debian/20221009T152114Z/pool/main/l/linux/linux-headers-5.15.0-2-common_5.15.11-1_all.deb
 https://packages.debian.org/linux-image?utm_source=chatgpt.com
+sudo apt install linux-image-5.10.0-32-amd64 linux-headers-5.10.0-32-amd64
