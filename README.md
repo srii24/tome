@@ -5,3 +5,4 @@ deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmwa
 deb http://deb.debian.org/debian bullseye main contrib non-free non-free-firmware
 deb http://deb.debian.org/debian-security bullseye-security main contrib non-free non-free-firmware
 deb http://deb.debian.org/debian bullseye-updates main contrib non-free non-free-firmware
+deb http://archive.ubuntu.com/ubuntu focal main restricted universe multiverse
